@@ -1,0 +1,16 @@
+venv/**
+FACE_RECOGNITION/database/images/**
+FACE_RECOGNITION/database/vectors/**
+FACE_RECOGNITION/data_nvup/**
+FACE_RECOGNITION/image_to_debug/**
+FACE_RECOGNITION/results/**
+instance/**
+app/static/data_nvup/**
+app/static/image_to_debug/**
+
+!FACE_RECOGNITION/database/images/.gitkeep
+!FACE_RECOGNITION/database/vectors/.gitkeep
+!FACE_RECOGNITION/results/.gitkeep
+!instance/.gitkeep
+!app/static/data_nvup/.gitkeep
+!app/static/image_to_debug/.gitkeep
